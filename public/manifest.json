@@ -1,0 +1,20 @@
+{
+  "name": "Brain Detox - Digital Wellness Tracker",
+  "short_name": "Brain Detox",
+  "description": "Detox your brain, reclaim your focus",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#6366F1",
+  "theme_color": "#6366F1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/brain-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "health", "lifestyle"],
+  "screenshots": []
+}
